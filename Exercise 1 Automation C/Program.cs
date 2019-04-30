@@ -85,8 +85,7 @@ namespace Exercise_1_Automation_C
                 case 2:
                     driver = new FirefoxDriver();
                     break;
-                case 3:
-                    
+                case 3:                  
                     driver = new InternetExplorerDriver(@"C:\Users\elizabeth.perez\Desktop\Microsoft");
                     break;
                 default:
